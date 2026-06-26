@@ -1,7 +1,6 @@
 CS 305 Module Eight Journal – Portfolio Reflection
 Repository Link:
-https://github.com/Croaf95
-
+https://github.com/Croaf95/CS-305-Software-Security
 Reflection
 For this course, my client was Artemis Financial, a company that needed to improve the security of their software application. The main issue they were dealing with was making sure sensitive financial data was protected and that their system was secure against vulnerabilities. My role was to analyze their application, identify security risks, and apply fixes to make the software more secure.
 One thing I think I did well during the vulnerability assessment was taking the time to understand the results from the dependency-check tool and identifying which vulnerabilities actually mattered. I focused on fixing the most important issues first rather than trying to fix everything at once. Coding securely is important because it helps prevent data breaches and protects users’ information. For a company like Artemis Financial, security is critical because their customers rely on them to keep financial data safe. Good security also helps a company avoid legal trouble and maintain its reputation.
